@@ -156,7 +156,7 @@
       "url": "https://packages.unity.cn"
     },
     "vr.xtn.boundtool": {
-      "version": "file:UnityBoundTool_Package",
+      "version": "file:BoundToolPackage",
       "depth": 0,
       "source": "embedded",
       "dependencies": {}
