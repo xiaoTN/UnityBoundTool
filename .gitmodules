@@ -1,0 +1,3 @@
+[submodule "Packages/BoundToolPackage"]
+	path = Packages/BoundToolPackage
+	url = git@github.com:xiaoTN/UnityBoundTool_Package.git
